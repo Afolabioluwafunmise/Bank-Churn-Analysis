@@ -20,9 +20,19 @@ The objective of this analysis is to examine customer data across 10,000 account
 
 ### Data Sources
 
-This dataset contains details on; demographics, account balances, product usage, churn status, and geography.
+This dataset contains details on;
 
-[View Dataset](
+demographics
+
+account balances
+
+product usage 
+
+churn status 
+
+geography.
+
+View Dataset
 
 ### Tools & Technologies
 
