@@ -20,7 +20,7 @@ The objective of this analysis is to examine customer data across 10,000 account
 
 ### Data Sources
 
-This dataset contains details on;
+This dataset contain details on;
 
 demographics
 
