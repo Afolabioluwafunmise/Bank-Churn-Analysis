@@ -1,15 +1,5 @@
 # Bank-Churn-Analysis
 
-# Table of contents
-
-[Project Overview](#-project-overview)
-
- [understanding bank customer churn](#-understanding-bank-customer-churn)
- 
-   [why this matters?](#-why-this-matters?)
-   
-
-
 ### Project Overview
 
 **Understanding Bank Customer Churn**
@@ -55,12 +45,13 @@ Encoding categorical variables
 
 **Customer Insights Dashboard**
 
-<img width="978" height="548" alt="bank churn snap" src="https://github.com/user-attachments/assets/b5759cf5-52af-40e9-a129-49e52bdd607d" />
+<img width="943" height="526" alt="bank churn 1" src="https://github.com/user-attachments/assets/a5a564e2-664c-45da-9bd4-e508394d343d" />
+
 
 
 **Customer Attrition Dashboard**
 
-<img width="994" height="551" alt="bank churn 2" src="https://github.com/user-attachments/assets/ebab5247-f93a-4085-859e-af4a6999f373" />
+<img width="937" height="525" alt="bank churn 2" src="https://github.com/user-attachments/assets/645936ae-c66e-4e7e-ad74-cd9c8cb09d54" />
 
 
 ### Key Insights & Conclusions
@@ -121,14 +112,13 @@ Encoding categorical variables
 
 ### Interact With the Dashboard
 
-View dashboard here
-
+[View dashboard here](https://app.powerbi.com/view?r=eyJrIjoiNmNlMjU2ZTQtZjI1OC00ZDIwLWEyNGUtMDQyYTg4NTNhN2ZhIiwidCI6Ijk4MTkxYzFlLTRhNTYtNDc4MC05YmU3LTAxMzM3MDIyOGJmNiJ9)
 ### License
 
 ### Author
 
 Afolabi Oluwafunmise | Data Analyst | Financial Analyst
 
-Email | My Linkedin
+Email | [My Linkedin](https://www.linkedin.com/in/afolabi-oluwafunmise?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
