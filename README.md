@@ -32,23 +32,32 @@ churn status
 
 geography.
 
-View Dataset
+*View Dataset*
 
 ### Tools & Technologies
 
 •	Microsoft Excel: Data exploration & profiling
+
 •	SQL: Data extraction & Create database
+
 •	Power BI: core tool for data insights & visualization
+
 •	Power Query: Used to clean, transform and create added columns
+
 •	Dax: used in calculating measures
+
 •	Data modeling: create relationships between tables for accurate visualizations & results
 
 ### Data Cleaning
 
 Handled Missing Values
+
 Removed Duplicates
+
 Standardized formats
+
 Feature Engineering
+
 Encoding categorical variables
 
 ### Dashboard Snapshots
